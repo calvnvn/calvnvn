@@ -1,4 +1,4 @@
-# Hello There! I'm Jap Calvin 👋
+# Hello There! I'm Jap Calvin
 
 <img src="https://github-readme-stats.vercel.app/api?username=calvnvn&hide=prs,issues,stars&show_icons=true&theme=synthwave" align="right" width="400" />
 
