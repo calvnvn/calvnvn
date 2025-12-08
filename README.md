@@ -12,7 +12,7 @@ I'm deeply passionate about software development and am actively building my por
 
 - 🔭 **Mobile Dev:** Building a mobile sales application for MSMEs (Small & Medium Enterprises) using **Kotlin** and **Android Studio**.
 - 🎮 **Game Dev:** Actively developing game projects using **C#** and the **Unity Engine**.
-- 🧠 **Machine Learning:** Exploring data analysis and modeling using **Python** and **Anaconda**.
+- 🧠 **Machine Learning:** Exploring data analysis and modeling using **Python**.
 - 👯 I’m open to collaborating on open-source projects or game jams.
 - 💬 Ask me about Web Development, Game Development, or my current projects!
 
