@@ -1,23 +1,34 @@
-# Hello There! I'm Jap Calvin
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&pause=1000&color=C778DD&center=true&vCenter=true&width=800&lines=Hello+There!+I'm+Jap+Calvin;Software+Engineer+%7C+Tech+Enthusiast;Informatics+Student+%40+UMN" alt="Typing Animation" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=calvnvn&hide=prs,issues,stars&show_icons=true&theme=synthwave" align="right" width="400" />
+<br>
 
-I am an Informatics (Computer Science) student at **Universitas Multimedia Nusantara (UMN)**, class of 2023.
+<div align="center">
+  <i>Blending engineering precision with visionary leadership. Actively building scalable software, engaging digital experiences, and thriving as both a dedicated team member and a project leader.</i>
+</div>
 
-I'm deeply passionate about software development and am actively building my portfolio through diverse projects. I have hands-on experience working in teams, both as a **team member** and as a **project leader**, which has honed my technical and managerial skills.
+<br>
 
----
-
-### 🚀 What I'm Currently Focused On
-
-- 🔭 **Mobile Dev:** Building a mobile sales application for MSMEs (Small & Medium Enterprises) using **Kotlin** and **Android Studio**.
-- 🎮 **Game Dev:** Actively developing game projects using **C#** and the **Unity Engine**.
-- 🧠 **Machine Learning:** Exploring data analysis and modeling using **Python**.
-- 👯 I’m open to collaborating on open-source projects or game jams.
-- 💬 Ask me about Web Development, Game Development, or my current projects!
-
----
-
+<table align="center" style="width: 100%; border: none;">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>⚡ Current Orbit</h3>
+      <ul>
+        <li>🏢 <b>Internship:</b> IT Developer Intern at <b>PT Dharma Agung Wijaya</b> — Actively spearheading the <b>DAW Website Revamp</b> project using React.js and Node.js.</li>
+        <li>📱 <b>Mobile Dev:</b> Building a mobile sales application to digitalize MSMEs using <b>Kotlin</b> and <b>Android Studio</b>.</li>
+        <li>🎮 <b>Game Dev:</b> Developing immersive game projects using <b>C#</b> and the <b>Unity Engine</b>.</li>
+        <li>🧠 <b>Machine Learning:</b> Exploring data analysis and modeling utilizing <b>Python</b>.</li>
+      </ul>
+      <blockquote>
+        <p>💡 <em>Open to collaborating on open-source projects, game jams, or discussing Web & Game Development!</em></p>
+      </blockquote>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=calvnvn&hide=prs,issues,stars&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000" width="100%" alt="Jap Calvin's GitHub Stats" />
+    </td>
+  </tr>
+</table>
 ### 🛠️ Tech Stack & Tools
 
 These are the primary technologies I've worked with across my projects:
