@@ -68,9 +68,16 @@ These are the primary technologies I've worked with across my projects:
 
 Here are my overall stats and most-used languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calvnvn&layout=donut&theme=synthwave&hide_border=true&langs_count=8)](https://github.com/calvnvn/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=calvnvn&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvnvn&layout=compact&theme=synthwave&hide_border=true&langs_count=8" width="48%" />
+</div>
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=calvnvn&theme=synthwave&title=Jap_Calvin's_GitHub_Contributor_Stats&hide_border=true&limit=5)
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=calvnvn&theme=synthwave&hide_border=true" width="100%" />
+</div>
 
 ### 📬 Let's Connect!
 
