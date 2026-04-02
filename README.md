@@ -25,7 +25,8 @@
       </blockquote>
     </td>
     <td width="45%" align="center" valign="middle">
-<img src="https://github-readme-stats.vercel.app/api?username=calvnvn&hide=prs,issues,stars&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&v=1" width="100%" alt="Jap Calvin's GitHub Stats" />    </td>
+      <img src="https://github-readme-stats.vercel.app/api?username=calvnvn&hide=prs,issues,stars&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&v=1" width="100%" alt="Jap Calvin's GitHub Stats" />
+    </td>
   </tr>
 </table>
 ### 🛠️ Tech Stack & Tools
